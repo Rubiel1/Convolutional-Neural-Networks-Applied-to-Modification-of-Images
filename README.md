@@ -1,2 +1,2 @@
 # Convolutional-Neural-Networks-Applied-to-Modification-of-Images
-This repository includes the collab notebooks of our book chapter "Convolutional Neural Networks Applied to Modification of Images"
+This repository includes the collab notebooks of our book chapter Aguirre-Velez, C.I., Arciniega-Nevárez, J.A., Dolores-Cuenca, E. (2023). Convolutional Neural Networks Applied to Modification of Images. In: Sriraman, B. (eds) Handbook of Visual, Experimental and Computational Mathematics . Springer, Cham. https://doi.org/10.1007/978-3-030-93954-0_5-1
